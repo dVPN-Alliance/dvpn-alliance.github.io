@@ -5,18 +5,7 @@
     <link>https://dvpn-alliance.github.io/</link>
     <description>Recent content on dVPN Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2020 13:14:10 +0300</lastBuildDate><atom:link href="https://dvpn-alliance.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Welcome to dVPN alliance</title>
-      <link>https://dvpn-alliance.github.io/posts/welcome/</link>
-      <pubDate>Thu, 01 Oct 2020 13:14:10 +0300</pubDate>
-      
-      <guid>https://dvpn-alliance.github.io/posts/welcome/</guid>
-      <description>Here is main text And couple or listsk
- One Two Three  Second section is Here Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://dvpn-alliance.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Core tenants the dVPN alliance is founded upon:</title>
       <link>https://dvpn-alliance.github.io/manifesto/</link>
@@ -25,16 +14,6 @@
       <guid>https://dvpn-alliance.github.io/manifesto/</guid>
       <description>Open-source With open-source, you see exactly what you are getting. Anyone can get full visibility into an open-source product or service’s codebase. They can also engage in discussions about how the community contributes by developing features and addressing issues.
 Web, mobile, and cloud solutions are now built predominantly on an open-source infrastructure. Open source enables flexibility when building technology products and services, typically offering multiple ways to solve problems. In contrast, proprietary code produced by centralized entities have proven to come with unforeseen limitations and unwelcome surprises.</description>
-    </item>
-    
-    <item>
-      <title>Welcome to dVPN alliance</title>
-      <link>https://dvpn-alliance.github.io/articles/one/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dvpn-alliance.github.io/articles/one/</guid>
-      <description>First article And couple or listsk
- One Two Three  Second section is Here Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</description>
     </item>
     
   </channel>
