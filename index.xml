@@ -15,6 +15,15 @@
       <description>Open-source With open-source, you see exactly what you are getting. Anyone can get full visibility into an open-source product or service’s codebase. They can also engage in discussions about how the community contributes by developing features and addressing issues.
 Web, mobile, and cloud solutions are now built predominantly on an open-source infrastructure. Open source enables flexibility when building technology products and services, typically offering multiple ways to solve problems. In contrast, proprietary code produced by centralized entities have proven to come with unforeseen limitations and unwelcome surprises.</description>
     </item>
+
+    <item>
+      <title>Tips for Running an Exit Node in a Distributed Network</title>
+      <link>https://dvpn-alliance.github.io/exit-node/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dvpn-alliance.github.io/exit-node/</guid>
+      <description>If you’re running an exit node for a distributed virtual private network - this is the place to start understanding your risks and liability. </description>
+    </item>
     
   </channel>
 </rss>
